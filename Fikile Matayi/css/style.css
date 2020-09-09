@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    width:300px ;
+}
+.content-wrap{
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+/* header */
+#navbar{
+    background: skyblue;
+    overflow: hidden;
+    z-index: 102;
+}
+
+#navbar a{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+   font-size: 17px;
+   color: white;
+}
+.header-container{
+  background: burlywood
+}
+ 
+/* image area */
+.image-area{
+    background:darkslategrey;
+    display:flex;
+    justify-content: center;
+}
+.text{
+    color: black;
+    font: size 16px;
+    position :absolute;
+}
+
+.image-item{
+    display: ;
+}
